@@ -1,0 +1,36 @@
+/* Add your CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color: whitesmoke;
+}
+
+.profile {
+    margin: 20px;
+}
+
+.profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.info {
+    margin: 20px;
+}
+
+.info p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.info a {
+    font-size: 18px;
+    text-decoration: none;
+    color: #0077FF;
+}
+
+.info a:hover {
+    text-decoration: underline;
+}
